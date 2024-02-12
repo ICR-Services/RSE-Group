@@ -23,7 +23,7 @@ The Research Software Engineering (RSE) Group provides expert software developme
     
 **Collaboration**: We work closely with research teams to understand specific needs and ensure the software aligns with research goals.  
 
-**Web application service**: We can develop and/or host web applications either internally or publicaly through docker images. 
+**Web application service**: We can develop and/or host web applications either internally or publicly through docker images. 
 
 
 
