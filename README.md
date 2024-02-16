@@ -9,10 +9,16 @@ We acknowledge the RSE Group at The Institute of Cancer Research for providing s
 ### Scientific Computing, Digital Services, Institute of Cancer Research  
 The Research Software Engineering (RSE) Group provides expert software development support to researchers within The Institute of Cancer Research (ICR). We help researchers across all disciplines by designing, developing, and maintaining high-quality, sustainable, and impactful software tools that address their specific research needs.
 
+---
+
 ### Staff
-- RSE Manager: <insert name>
-- Research Software Engineer: <insert name>
-- Research Software Engineer: <insert name>
+- Research Software Engineer: Rachel Alcraft, May 2023+
+- Research Software Engineer: Kareem Marzouk, September 2022+
+
+### Staff alumni
+- Yamina Boumediene, Senior RSE, 2022-2023
+
+---
 
 ### Service Capabilities and Applications
 **Software development**: We help you turn research ideas into functional software tools, from conception to implementation and deployment.  
