@@ -19,7 +19,8 @@ The Research Software Engineering (RSE) Group provides expert software developme
 
 ### Service Capabilities and Functions
 **Software development**: We help you turn research ideas into functional software tools, from conception to implementation and deployment. 
-This can be full software development, adaption and enhancement of existing tools, or rapid prototyping.
+This can be full software development, adaption and enhancement of existing tools, or rapid prototyping. 
+We specialise in creating bespoke user-friendly applications from an assortment of 3rd party command line tools.
 
 **Application Support**: We support the installation and use of scientific software across the ICR and on Alma, primarily R and python bnased tools distributed with github or docker but also boiinformtics command line tools.
   
