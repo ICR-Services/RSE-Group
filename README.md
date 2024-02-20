@@ -17,8 +17,11 @@ The Research Software Engineering (RSE) Group provides expert software developme
 
 ---
 
-### Service Capabilities and Applications
-**Software development**: We help you turn research ideas into functional software tools, from conception to implementation and deployment.  
+### Service Capabilities and Functions
+**Software development**: We help you turn research ideas into functional software tools, from conception to implementation and deployment. 
+This can be full software development, adaption and enhancement of existing tools, or rapid prototyping.
+
+**Application Support**: We support the installation and use of scientific software across the ICR and on Alma, primarily R and python bnased tools distributed with github or docker but also boiinformtics command line tools.
   
 **Software consulting**: We offer guidance on best practices for software development, code review, and software architecture design.  
   
@@ -33,7 +36,7 @@ The Research Software Engineering (RSE) Group provides expert software developme
 # History
 
 ### Alumni
-- Yamina Boumediene, Senior RSE, 2022-2023
+- Yamina Boumediene (Senior RSE) 2022-2023
 
 ### Version history
 Initial version: [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
