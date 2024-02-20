@@ -39,7 +39,7 @@ This can be full software development, adaption and enhancement of existing tool
 - Yamina Boumediene (Senior RSE) 2022-2023
 
 ### Version history
-- Current version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)  
+- Current version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363) Updated service definition.
 - Initial version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683143.svg)](https://doi.org/10.5281/zenodo.10683143)  
 
 
