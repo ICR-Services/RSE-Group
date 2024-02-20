@@ -12,11 +12,8 @@ The Research Software Engineering (RSE) Group provides expert software developme
 ---
 
 ### Staff
-- Research Software Engineer: Rachel Alcraft, May 2023+
-- Research Software Engineer: Kareem Marzouk, September 2022+
-
-### Staff alumni
-- Yamina Boumediene, Senior RSE, 2022-2023
+- Research Software Engineer: Rachel Alcraft, May 2023 -
+- Research Software Engineer: Kareem Marzouk, September 2022 -
 
 ---
 
@@ -30,6 +27,16 @@ The Research Software Engineering (RSE) Group provides expert software developme
 **Collaboration**: We work closely with research teams to understand specific needs and ensure the software aligns with research goals.  
 
 **Web application service**: We can develop and/or host web applications either internally or publicly through docker images. 
+
+---
+
+# History
+
+### Alumni
+- Yamina Boumediene, Senior RSE, 2022-2023
+
+### Version history
+Initial version: [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
 
 
 
