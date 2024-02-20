@@ -12,8 +12,9 @@ The Research Software Engineering (RSE) Group provides expert software developme
 ---
 
 ### Staff
+- Deputy CIO, Scientific Computing: Dr Ian Giddings, September 2022 - 
 - Research Software Engineer: Rachel Alcraft, May 2023 -
-- Research Software Engineer: Kareem Marzouk, September 2022 -
+- Research Software Engineer: Dr Kareem Marzouk, September 2022 -
 
 ---
 
