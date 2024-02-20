@@ -1,5 +1,5 @@
 ## Acknowledgement
-We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper. [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10684363)
+We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)
 
 ---
 
@@ -39,7 +39,8 @@ This can be full software development, adaption and enhancement of existing tool
 - Yamina Boumediene (Senior RSE) 2022-2023
 
 ### Version history
-Initial version: [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10683143)
+Current version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)
+Initial version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683143.svg)](https://doi.org/10.5281/zenodo.10683143)
 
 
 
