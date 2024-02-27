@@ -39,7 +39,9 @@ This can be full software development, adaption and enhancement of existing tool
 # History
 
 ### Alumni
-- Yamina Boumediene (Senior RSE) 2022-2023
+| Role | Name | Orcid | From | To |
+| -- | -- | -- | -- | -- |
+| Senior RSE | Yamina Boumediene | | Sep 2022 | Dec 2023 |
 
 ### Version history
 - Current version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363) Updated service definition.
