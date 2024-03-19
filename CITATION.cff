@@ -3,6 +3,7 @@ message: "If you use this service, please cite it as below."
 authors:
 - family-names: "Alcraft"
   given-names: "Rachel"
+  email: rachel.alcraft@icr.ac.uk
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Ian"
   given-names: "Giddings"
