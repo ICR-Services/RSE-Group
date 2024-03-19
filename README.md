@@ -15,8 +15,7 @@ The Research Software Engineering (RSE) Group provides expert software developme
 | Role | Name | Orcid | Started |
 | -- | -- | -- | -- |
 | Deputy CIO, Scientific Computing | Dr Ian Giddings | [0000-0003-1078-5780](https://orcid.org/0000-0003-1078-5780) | February 2023 |
-| Research Software Engineer | Dr Kareem Marzouk | [0000-0003-2060-8956](https://orcid.org/0000-0003-2060-8956) | September 2022 |
-| Research Software Engineer | Rachel Alcraft | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | May 2023 |
+| Research Software Engineerinf Manager | Rachel Alcraft | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | May 2023 |
 
 ---
 
@@ -41,6 +40,7 @@ This can be full software development, adaption and enhancement of existing tool
 ### Alumni
 | Role | Name | Orcid | From | To |
 | -- | -- | -- | -- | -- |
+| Research Software Engineer | Dr Kareem Marzouk | [0000-0003-2060-8956](https://orcid.org/0000-0003-2060-8956) | September 2022 | Mar 2024
 | Senior RSE | Yamina Boumediene | | Sep 2022 | Dec 2023 |
 
 ### Version history
