@@ -1,5 +1,5 @@
 ## Example acknowledgement
-We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363)
+We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10848720.svg)](https://doi.org/10.5281/zenodo.10848720)
 
 ---
 
@@ -45,7 +45,8 @@ This can be full software development, adaption and enhancement of existing tool
 | Senior RSE | Yamina Boumediene | | Sep 2022 | Dec 2023 |
 
 ### Version history
-- Current version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363) Updated service definition.
+- March 2024: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10848720.svg)](https://doi.org/10.5281/zenodo.10848720)
+- Jan 2024: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363) Updated service definition.
 - Initial version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683143.svg)](https://doi.org/10.5281/zenodo.10683143)  
 
 
