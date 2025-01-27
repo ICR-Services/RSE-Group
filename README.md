@@ -37,20 +37,10 @@ This can be full software development, adaption and enhancement of existing tool
 
 ---
 
-# History
-
 ### Alumni
 | Role | Name | Orcid | From | To | 
 | -- | -- | -- | -- | -- |
 | Research Software Engineer | Rachel Alcraft | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | May 2023 | Mar 2024 (new role in team) |
 | Research Software Engineer | Dr Kareem Marzouk | [0000-0003-2060-8956](https://orcid.org/0000-0003-2060-8956) | September 2022 | Mar 2024
 | Senior RSE | Yamina Boumediene | | Sep 2022 | Dec 2023 |
-
-### Version history
-- March 2024: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10848720.svg)](https://doi.org/10.5281/zenodo.10848720)
-- Jan 2024: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10684363.svg)](https://doi.org/10.5281/zenodo.10684363) Updated service definition.
-- Initial version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683143.svg)](https://doi.org/10.5281/zenodo.10683143)  
-
-
-
 
