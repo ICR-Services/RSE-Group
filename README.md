@@ -17,7 +17,7 @@ The Research Software Engineering (RSE) Group provides expert software developme
 | Deputy CIO, Scientific Computing | Dr Ian Giddings | [0000-0003-1078-5780](https://orcid.org/0000-0003-1078-5780) | February 2023 |
 | Research Software Engineering Manager | Rachel Alcraft | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | May 2023 |
 | Research Software Engineer | Mira Sarkis |  [0000-0002-8573-186X](https://orcid.org/0000-0002-8573-186X)| September 2024 |
-| Research Software Engineer | Stacy Shcherbakova |  | October 2024 |
+| Research Software Engineer | Stacy Shcherbakova | [0009-0002-1139-6787](https://orcid.org/0009-0002-1139-6787) | October 2024 |
 
 ---
 
